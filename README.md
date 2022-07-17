@@ -4,4 +4,6 @@ input file is present under resources folder. Feel free to add more commands to 
 
 Display-vehicles command wont display vehicles which are not returned yet using RETURN command.
 
+Add JUnit4 and JUnit5.4 Jar in classpath to run Unit test Cases.
+
 
